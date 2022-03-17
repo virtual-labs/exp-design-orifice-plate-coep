@@ -4,9 +4,9 @@
     {
       "question": "The rate of change of momentum is proportional to impressed force and takes place in the direction of that force this is ........",
       "answers": {
-        "a": "Newton’s Second law of motion",
-        "b": "Newton’s First law of motion",
-        "c": "Newton’s Third law of motion",
+        "a": "Newton's Second law of motion",
+        "b": "Newton's First law of motion",
+        "c": "Newton's Third law of motion",
         "d": "None of these"
       },
      
@@ -17,7 +17,7 @@
       "question": "Bernoulli's Equation is obtained by integration of ---------------",
       "answers": {
         "a": "Karman Momentum Equation",
-        "b": "Euler’s Equation",
+        "b": "Euler's Equation",
         "c": "Continuity Equation",  
         "d": "None of these"
       },
@@ -38,7 +38,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": " For the flow through pipes, Reynold’s number is less than 2000 the flow is called as",
+      "question": " For the flow through pipes, Reynold's number is less than 2000 the flow is called as",
       "answers": {
         "a": "Transitional Flow",
         "b": "Turbulent flow",
@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Reynold’s number is given by a formula",
+      "question": "Reynold's number is given by a formula",
       "answers": {
         "a": "(V*l*µ)/&rho;",
         "b": "(&rho;*V*l)/µ",
