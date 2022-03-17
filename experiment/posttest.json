@@ -2,35 +2,76 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Vena contracta is a point where",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Velocity is minimum and static pressure is minimum",
+        "b": "Velocity is constant and static pressure is minimum",
+        "c": "Velocity is maximum and static pressure is minimum",
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Generally material used for the orifice plate is",
+      "answers": {
+        "a": "Copper",
+        "b": "Phosphor Bronze",
+        "c": "Aluminium",        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",        
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Beta ratio is defined as",
+      "answers": {
+        "a": "(Orifice Diameter d)/(Pipe Diameter D)",
+        "b": "(Pipe Diameter D ) /(Orifice Diameter d)",
+        "c": "(Pipe Diameter D ) / ( Orifice Area a)",        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",        
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "To convert lpm to m3/sec",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Multiply by 1",
+        "b": "Divide by 1.667 * 10 -5",
+        "c": "Multiply by 1.667 * 10 -5",        
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 2",        
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Orifice plate can be of ............. type/types",
+      "answers": {
+        "a": "Eccentric",
+        "b": "Concentric",
+        "c": "Any one of both",        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",        
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

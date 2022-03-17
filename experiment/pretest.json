@@ -2,37 +2,78 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "“The rate of change of momentum is proportional to impressed force and takes place in the direction of that force” this is ........",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Newton’s Second law of motion",
+        "b": "Newton’s First law of motion",
+        "c": "Newton’s Third law of motion",        
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 2",        
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Bernoulli’s Equation is obtained by integration of ---------------",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Karman Momentum Equation",
+        "b": "Euler’s Equation",
+        "c": "Continuity Equation",        
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 2",       
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the characteristics of flow like velocity, pressure, density etc. at any point do not change with respect to time ,the flow is called as",
+      "answers": {
+        "a": "Steady Flow",
+        "b": "Unsteady Flow",
+        "c": "Can not say",        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",        
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " For the flow through pipes, Reynold’s number is less than 2000 the flow is called as",
+      "answers": {
+        "a": "Transitional Flow",
+        "b": "Turbulent flow",
+        "c": "Laminar flow",        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",        
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Reynold’s number is given by a formula",
+      "answers": {
+        "a": "(V*l*µ)/?",
+        "b": "(?*V*l)/µ",
+        "c": "(µ*l*?)/V",        
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",        
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
