@@ -7,12 +7,9 @@
         "a": "Velocity is minimum and static pressure is minimum",
         "b": "Velocity is constant and static pressure is minimum",
         "c": "Velocity is maximum and static pressure is minimum",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -21,13 +18,10 @@
       "answers": {
         "a": "Copper",
         "b": "Phosphor Bronze",
-        "c": "Aluminium",        
+        "c": "Aluminium",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -36,13 +30,10 @@
       "answers": {
         "a": "(Orifice Diameter d)/(Pipe Diameter D)",
         "b": "(Pipe Diameter D ) /(Orifice Diameter d)",
-        "c": "(Pipe Diameter D ) / ( Orifice Area a)",        
+        "c": "(Pipe Diameter D ) / ( Orifice Area a)",  
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -51,13 +42,10 @@
       "answers": {
         "a": "Multiply by 1",
         "b": "Divide by 1.667 * 10 -5",
-        "c": "Multiply by 1.667 * 10 -5",        
+        "c": "Multiply by 1.667 * 10 -5",  
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -66,13 +54,10 @@
       "answers": {
         "a": "Eccentric",
         "b": "Concentric",
-        "c": "Any one of both",        
+        "c": "Any one of both",   
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
