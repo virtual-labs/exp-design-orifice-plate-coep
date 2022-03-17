@@ -4,9 +4,9 @@
     {
       "question": "The rate of change of momentum is proportional to impressed force and takes place in the direction of that force this is ........",
       "answers": {
-        "a": "Newton’s Second law of motion",
-        "b": "Newton’s First law of motion",
-        "c": "Newton’s Third law of motion",
+        "a": "Newton's Second law of motion",
+        "b": "Newton's First law of motion",
+        "c": "Newton's Third law of motion",
         "d": "None of these"
       },
      
@@ -17,7 +17,7 @@
       "question": "Bernoulli's Equation is obtained by integration of ---------------",
       "answers": {
         "a": "Karman Momentum Equation",
-        "b": "Euler’s Equation",
+        "b": "Euler's Equation",
         "c": "Continuity Equation",  
         "d": "None of these"
       },
