@@ -52,9 +52,9 @@
     {
       "question": "Reynold's number is given by a formula",
       "answers": {
-        "a": "(V*l*µ)/&rho;",
-        "b": "(&rho;*V*l)/µ",
-        "c": "(µ*l*?)/V",  
+        "a": "(V*l*µ)$\rho$",
+        "b": "($\rho$*V*l)/µ",
+        "c": "(µ*l*$\rho$)/V",  
         "d": "None of these"
       },
      
