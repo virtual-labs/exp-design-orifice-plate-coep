@@ -7,9 +7,9 @@
 
 #### **Step by step Procedure:**
 ##### 1. Study the diagram completely.
-##### 2. Select the value of beta ratio (ß).
+##### 2. Select the value of beta ratio (&beta;).
 ##### 3. Select the value of orifice diameter (d) in meter.
-##### 4. Click on Done. This will lock the values of ß and d.
+##### 4. Click on Done. This will lock the values of	&beta; and d.
 ##### 5. Change the value of Volumetric Flow Rate in LPM (Q) by a cursor.
 ##### 6. Click on Show Cd tab. The coefficient of discharge will be displayed.
 ##### 7. Enter the calculated user output differential pressure. For calculations of differential pressure ?P, click on Get Formula tab.
@@ -30,11 +30,11 @@
 
 ##### 2. Select the service. According to change in service the density will change and value if the density will be displayed on the screen.
 
-##### 3. Select the value of beta ratio (ß).
+##### 3. Select the value of beta ratio (&beta;).
 
 ##### 4. Select the value of orifice diameter (d) in meter.
 
-##### 5. Click on Done. This will lock the values of ß and d.
+##### 5. Click on Done. This will lock the values of &beta; and d.
 
 ##### 6. Change the value of Volumetric Flow Rate in LPM (Q) by a cursor.
 
@@ -65,11 +65,11 @@
 
 ##### 3. Select the service. According to change in service selected tapping will be displayed on the screen.
 
-##### 4. Select the value of beta ratio (ß).
+##### 4. Select the value of beta ratio (&beta;).
 
 ##### 5. Select the value of orifice diameter (d) in meter.
 
-##### 6. Click on Done. This will lock the values of ß and d.
+##### 6. Click on Done. This will lock the values of &beta; and d.
 
 ##### 7. Change the value of Volumetric Flow Rate in LPM (Q) by a cursor.
 
@@ -100,11 +100,11 @@
 
 ##### 3. Select the value of temperature.
 
-##### 4. Select the value of beta ratio (ß).
+##### 4. Select the value of beta ratio (&beta;).
 
 ##### 5. Select the value of orifice diameter (d) in meter.
 
-##### 6. Click on Done. This will lock the values of ß and d.
+##### 6. Click on Done. This will lock the values of &beta; and d.
 
 ##### 7. Change the value of Volumetric Flow Rate in LPM (Q) by a cursor.
 
