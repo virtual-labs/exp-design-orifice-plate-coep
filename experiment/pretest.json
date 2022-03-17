@@ -2,32 +2,26 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "ìThe rate of change of momentum is proportional to impressed force and takes place in the direction of that forceî this is ........",
+      "question": "‚ÄúThe rate of change of momentum is proportional to impressed force and takes place in the direction of that force‚Äù this is ........",
       "answers": {
-        "a": "Newtonís Second law of motion",
-        "b": "Newtonís First law of motion",
-        "c": "Newtonís Third law of motion",        
+        "a": "Newton‚Äôs Second law of motion",
+        "b": "Newton‚Äôs First law of motion",
+        "c": "Newton‚Äôs Third law of motion",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "Bernoulliís Equation is obtained by integration of ---------------",
+      "question": "Bernoulli‚Äôs Equation is obtained by integration of ---------------",
       "answers": {
         "a": "Karman Momentum Equation",
-        "b": "Eulerís Equation",
-        "c": "Continuity Equation",        
+        "b": "Euler‚Äôs Equation",
+        "c": "Continuity Equation",  
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",       
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -36,43 +30,34 @@
       "answers": {
         "a": "Steady Flow",
         "b": "Unsteady Flow",
-        "c": "Can not say",        
+        "c": "Can not say", 
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": " For the flow through pipes, Reynoldís number is less than 2000 the flow is called as",
+      "question": " For the flow through pipes, Reynold‚Äôs number is less than 2000 the flow is called as",
       "answers": {
         "a": "Transitional Flow",
         "b": "Turbulent flow",
-        "c": "Laminar flow",        
+        "c": "Laminar flow",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+    
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "Reynoldís number is given by a formula",
+      "question": "Reynold‚Äôs number is given by a formula",
       "answers": {
-        "a": "(V*l*µ)/?",
-        "b": "(?*V*l)/µ",
-        "c": "(µ*l*?)/V",        
+        "a": "(V*l*¬µ)/?",
+        "b": "(?*V*l)/¬µ",
+        "c": "(¬µ*l*?)/V",  
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",        
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
