@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Vena contracta is a point where",
+      "answers": {
+        "a": "Velocity is minimum and static pressure is minimum",
+        "b": "Velocity is constant and static pressure is minimum",
+        "c": "Velocity is maximum and static pressure is minimum",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Generally material used for the orifice plate is",
+      "answers": {
+        "a": "Copper",
+        "b": "Phosphor Bronze",
+        "c": "Aluminium",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Beta ratio is defined as",
+      "answers": {
+        "a": "(Orifice Diameter d)/(Pipe Diameter D)",
+        "b": "(Pipe Diameter D ) /(Orifice Diameter d)",
+        "c": "(Pipe Diameter D ) / ( Orifice Area a)",  
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To convert lpm to m3/sec",
+      "answers": {
+        "a": "Multiply by 1",
+        "b": "Divide by 1.667 * 10 -5",
+        "c": "Multiply by 1.667 * 10 -5",  
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Orifice plate can be of ............. type/types",
+      "answers": {
+        "a": "Eccentric",
+        "b": "Concentric",
+        "c": "Any one of both",   
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
